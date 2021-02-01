@@ -1,5 +1,5 @@
 # The-Best-Classifier
-Prediction for a payment of Loan
+Performs Prediction for a status of Pending Loan Applicants
 
 ## Problem Statement
 - Dataset contains the details about the status of Loan application. Using this dataset, decision can be predicted by Machine learning algorithms on future loan applications.
